@@ -25,11 +25,21 @@
  estratégica con beneficios tangibles en productividad y costos operativos.
 
 **Dependencias:**  
--numpy - Para manipulación de arreglos.
+-pandas - Para análisis y manipulación de datos tabulares.
 
--pandas - Para análisis de datos.
+-numpy - Para manipulación de arreglos y matrices multidimensionales.
 
--matplotlib - Para visualización de datos.
+-scikit-learn - Para clasificación, regresión y evaluación de modelos de machine learning.
+
+-tensorflow - Para desarrollo y ejecución de modelos de deep learning.
+
+-keras-tuner - Para optimización de hiperparámetros en modelos de deep learning.
+
+-matplotlib - Para creación y visualización de gráficos.
+
+-Pillow (PIL) - Para manipulación y procesamiento de imágenes.
+
+-os - Para manejo de rutas y operaciones del sistema operativo.
 
 **Instrucciones de ejecución:**  
 1. **Requisitos previos**:

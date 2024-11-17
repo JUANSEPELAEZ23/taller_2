@@ -23,6 +23,7 @@
  económica a largo plazo. En conclusión, la implementación del modelo 2 no solo mejora la
  eficiencia técnica en la clasificación de imágenes, sino que también representa una inversión
  estratégica con beneficios tangibles en productividad y costos operativos.
+
 **Dependencias:**  
 -numpy - Para manipulación de arreglos.
 

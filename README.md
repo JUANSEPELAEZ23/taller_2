@@ -16,9 +16,7 @@
  a 38% en promedio) y recall (40% frente a 38% en promedio). Esto confirma que el modelo 2
  no solo identifica con mayor exactitud las imágenes en cada clase, sino que también clasifica
  correctamente una mayor proporción de los datos de prueba, consolidándose como la solución
- más robusta para el problema planteado.
-
- Desde el punto de vista del impacto económico, el modelo ofrece un ahorro significativo en el
+ más robusta para el problema planteado. Desde el punto de vista del impacto económico, el modelo ofrece un ahorro significativo en el
  tiempo de registro de productos, estimado en 14.5 horas mensuales, lo que equivale a
  $146,000 de ahorro mensual. Si bien el desarrollo del modelo requirió una inversión inicial, el
  retorno de la misma se alcanzará en aproximadamente 16 meses, demostrando su viabilidad

@@ -26,6 +26,7 @@ Desde el punto de vista del impacto económico, el modelo ofrece un ahorro signi
  largo plazo. En conclusión, la implementación del modelo 3 no solo mejora la eficiencia técnica
  en la clasificación de imágenes, sino que también representa una inversión estratégica con
  beneficios tangibles en productividad y costos operativos.
+
 **Dependencias:**  
 -pandas - Para análisis y manipulación de datos tabulares.
 
